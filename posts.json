@@ -1,0 +1,64 @@
+{
+ "version": 1,
+ "site": "Pale Blue Signal",
+ "url": "https://www.palebluesignal.com",
+ "design": "ab6e1c2b15ae",
+ "posts": [
+  {
+   "id": "dmv9ygvkr06n1x",
+   "slug": "musk-chose-trump-over-ukraine-and-the-starlink-cut-shows-it",
+   "title": "Musk Chose Trump Over Ukraine, and the Starlink Cut Shows It",
+   "dek": "The Starlink restrictions on Ukraine look to me like politics, not a technical call.",
+   "topic": "geopolitics",
+   "author": "Daniel",
+   "published": "2026-10-16T07:26:11Z",
+   "modified": "2026-10-16T07:26:11Z",
+   "body": "## What happened\n\nUkraine's access to Starlink has been newly restricted, and Ukrainian officials say the limits are disrupting their drone operations against Russian targets [1][2]. A Zelensky adviser says access was restricted without notice, and that this \"cannot be a coincidence\" [2]. That claim comes from one side, and no explanation from the provider has been reported [2].\n\n## Why it matters\n\nStarlink is a weapon now. For the United States, it's leverage over who gets access. For Ukraine, it's make-or-break.\n\nMy read is that this points to collusion between Elon Musk and President Trump. I think Musk would rather back Ukraine, but crossing Trump costs him more, and Trump holds much of Starlink's future. Loyalty to Trump is his best shot at keeping Starlink and his other businesses thriving. I don't see much debate there. So he's bending the knee.\n\nWhat sells it for me is the timing. Trump pressed Ukraine to stop hitting Russian refineries [2]. Right after that, Starlink was throttled. I can't see a universe where that's an accident.\n\nElon's rhetoric on X has turned against Zelensky too. To me, it reads like a concerted effort to go after him, with talk of elections and of getting him out of office [3].\n\n{{M1}}\n\nThe reporting covers the restrictions, the damage Ukraine describes and the timing. That Musk did it for Trump is my interpretation.\n\n## Where it's headed\n\nI think this is a midterm play, and maybe a desperate one. They need unity and good news, and ending the war in Ukraine could move votes. With Ukraine's refinery strikes paused [2], markets could read that as a signal, and prices might fall.\n\nUkraine's access hangs on how the midterms go. I just don't expect things to get better once they're over.\n\nIf SpaceX or the Pentagon calls this a technical or security decision, I'd read that as cover. What would move me is a joint statement from Ukraine or NATO allies that balances the picture. Even then, it depends. I could be wrong.\n\nWhatever the explanation, Ukraine is paying for it. Follow the money. Watch the timing.",
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "Wall Street Journal",
+     "title": "Ukraine Says New Limits on Starlink Are Disrupting Its Military Operations",
+     "url": "https://www.wsj.com/world/europe/ukraine-says-new-starlink-speed-limit-is-disrupting-its-attacks-79225e19?mod=rss_worldnews"
+    },
+    {
+     "n": 2,
+     "outlet": "Kyiv Independent",
+     "title": "'This cannot be a coincidence' — Ukraine's Starlink access restricted without warning, Zelensky adviser says",
+     "url": "https://kyivindependent.com/this-cannot-be-a-coincidence-ukraines-starlink-access-restricted-without-warning-zelensky-adviser-says/"
+    },
+    {
+     "n": 3,
+     "outlet": "Elon Musk (@elonmusk) on X",
+     "title": "And so the slaughter continues ...\n\nTime for Zelensky to go\n\nQuoted post by @amuse (@amuse · 23h):\nUKRAINE: Zelensky explained that he has…",
+     "url": "https://x.com/elonmusk/status/2110557192650641827?s=46"
+    }
+   ],
+   "media": [
+    {
+     "ref": "M1",
+     "n": 3,
+     "kind": "image",
+     "platform": "X",
+     "author": "Elon Musk",
+     "handle": "@elonmusk",
+     "date": "18h",
+     "text": "And so the slaughter continues ...\n\nTime for Zelensky to go\n\nQuoted post by @amuse (@amuse · 23h):\nUKRAINE: Zelensky explained that he has no intention of ending the war until Russia is defeated. His greatest fear is ending the war and facing a presidential election. If he lost, he would certainly be investigated and most likely prosecuted - 80%...\n\nQuoted post by Steve Cortes (@SteveCortes · 1d):\nIngrate corrupt Zelensky says he has no interest in a negotiated peace agr...",
+     "url": "https://x.com/elonmusk/status/2110557192650641827?s=46",
+     "caption": "Elon Musk (@elonmusk) on X, 18h",
+     "alt": "A post by Elon Musk on X saying 'And so the slaughter continues ... Time for Zelensky to go', quoting a post by @amuse about Zelensky and the war, which itself quotes a Steve Cortes post with a video thumbnail.",
+     "w": 1200,
+     "h": 968,
+     "src": "media/67b881753aba2c538ec1.jpg"
+    }
+   ],
+   "updates": [],
+   "words": 344,
+   "audio": {
+    "src": "audio/musk-chose-trump-over-ukraine-and-the-starlink-cut-shows-it-8f187d7c84.mp3",
+    "seconds": 156.9,
+    "bytes": 2511141
+   }
+  }
+ ]
+}

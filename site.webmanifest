@@ -1,0 +1,23 @@
+{
+ "name": "Pale Blue Signal",
+ "short_name": "Pale Blue Signal",
+ "description": "Short, sourced reads on the stories moving the world: what happened, why it matters, and where it’s headed.",
+ "lang": "en",
+ "start_url": "./",
+ "scope": "./",
+ "display": "minimal-ui",
+ "background_color": "#0B0F14",
+ "theme_color": "#F6F7F4",
+ "icons": [
+  {
+   "src": "assets/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "assets/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
