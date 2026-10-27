@@ -107,6 +107,45 @@
     "seconds": 142.1,
     "bytes": 2273323
    }
+  },
+  {
+   "id": "dmvqahjio1n0di",
+   "slug": "microsofts-60-000-buyouts-and-the-coming-software-shakeout",
+   "title": "Microsoft's 60,000 Buyouts and the Coming Software Shakeout",
+   "dek": "My read on what Microsoft's buyout offer says about AI, big software and small business.",
+   "topic": "tech-ai",
+   "author": "Daniel",
+   "published": "2026-10-27T06:16:55Z",
+   "modified": "2026-10-27T06:16:55Z",
+   "body": "## What happened\n\nMicrosoft is offering buyouts to 60,000 workers to cut costs amid AI adoption, according to Bloomberg [1]. Eligible staff are on select teams in the US, Canada, India and the UK, at vice president level and below [1]. These are voluntary buyouts, not layoffs.\n\n{{M1}}\n\n## Why it matters\n\nMy understanding is that this covers about 27% of Microsoft's entire workforce in one round. If that's right, it's staggering.\n\nHere's why I think it's happening. AI now lets someone with limited experience build software that matches tools charging thousands of dollars a month. Features once locked behind high-tier subscriptions are open season, and you can get similar results for pennies on the dollar.\n\nThat gives small businesses a major opportunity to claw back a competitive advantage. Large businesses will have to trim staff just to compete. So no, I don't think these buyouts are just corporate greed. Big companies need them to stay competitive.\n\nIn my view, SaaS firms like Salesforce, HubSpot and DocuSign are going to find this shift very difficult. The future is software built for one company's exact needs, whether that's handled in-house or by specialized shops that build and maintain custom tools.\n\n## Where it's headed\n\nI suspect these voluntary buyouts are a first round, partly for optics. My guess is Microsoft would rather the headlines say it paid people than say it left them to fend for themselves. If not enough people take the offer, I think layoffs will likely follow. That's speculation, and I'm open to being wrong.\n\nI expect other companies to follow Microsoft, especially if its approach proves profitable. When one of the biggest, most capable companies on the planet tries something and it works, other business leaders learn from it.\n\nAs for the established SaaS players, I think they're well positioned and have a while to adapt. But they will have to downsize drastically. I don't have a timeline for when.\n\nThe only thing I think could slow this down is regulation, and I don't expect it in the near future.\n\nI think this is a sign of the times. It's one of the first major dominoes to fall, and it's going to get worse.",
+   "sources": [
+    {
+     "n": 1,
+     "outlet": "The Kobeissi Letter (@KobeissiLetter) on X",
+     "title": "BREAKING: Microsoft, $MSFT, is offering buyouts to 60,000 workers as part of the company’s efforts to cut costs amid AI adoption, per…",
+     "url": "https://x.com/kobeissiletter/status/2114745896315359305?s=46"
+    }
+   ],
+   "media": [
+    {
+     "ref": "M1",
+     "n": 1,
+     "kind": "post",
+     "platform": "X",
+     "author": "The Kobeissi Letter",
+     "handle": "@KobeissiLetter",
+     "date": "October 26, 2026",
+     "text": "BREAKING: Microsoft, $MSFT, is offering buyouts to 60,000 workers as part of the company’s efforts to cut costs amid AI adoption, per Bloomberg.\n\nPersonnel on select teams in the US, Canada, India, and the UK at a vice president level and below will be eligible.\n\nThis reflects…",
+     "url": "https://x.com/kobeissiletter/status/2114745896315359305?s=46"
+    }
+   ],
+   "updates": [],
+   "words": 364,
+   "audio": {
+    "src": "audio/microsofts-60-000-buyouts-and-the-coming-software-shakeout-32037a51e3.mp3",
+    "seconds": 163.4,
+    "bytes": 2614377
+   }
   }
  ]
 }
